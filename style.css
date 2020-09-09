@@ -29,7 +29,9 @@ html, body {
 .navbar img {
   width: 20%;
   height: 20%;
+  border-radius: 5px;
 }
+
 .navbar-nav li {
   padding-right: 20px;
 }
@@ -85,6 +87,11 @@ html, body {
 .btn-primary:hover {
   background-color: #563d7c;
   border: 1px solid #563d7c;
+}
+
+/* Advertisement */
+.ad {
+  margin-top: 200px;
 }
 
 /* Jumbotron */
